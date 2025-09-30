@@ -9,7 +9,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
-    "stream-chat-react": "0.8.5"
+    "stream-chat-react": "13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
